@@ -1,29 +1,6 @@
-Titre du jeu
-============
-
-Aperçu du jeu
--------------
-
-Personnage
-----------
-
-Gameplay
---------
-
-Univers de jeu
---------------
-
-Expérience de jeu
------------------
-
-Mécaniques de gameplay
-----------------------
-
-Ennemis
--------
-
-Multijoueur et extras
----------------------
-
-Monétisation
-------------
+# Procaster
+## Authors
+- Nam Lesage
+- Philippe Lelièvre
+- Stéphane Tzetkov
+- Rémi Nicole
